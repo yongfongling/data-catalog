@@ -5,7 +5,7 @@
     <ARTIST>Bob Dylan</ARTIST>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>Columbia</COMPANY>
-    <PRICE>10.90</PRICE>
+    <PRICE>9.90</PRICE>
     <YEAR>1985</YEAR>
   </CD>
   <CD>
@@ -29,7 +29,7 @@
     <ARTIST>Gary Moore</ARTIST>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Virgin records</COMPANY>
-    <PRICE>10.20</PRICE>
+    <PRICE>9.20</PRICE>
     <YEAR>1990</YEAR>
   </CD>
   <CD>
@@ -45,7 +45,7 @@
     <ARTIST>Bee Gees</ARTIST>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Polydor</COMPANY>
-    <PRICE>10.90</PRICE>
+    <PRICE>9.90</PRICE>
     <YEAR>1998</YEAR>
   </CD>
   <CD>
@@ -53,7 +53,7 @@
     <ARTIST>Dr.Hook</ARTIST>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>CBS</COMPANY>
-    <PRICE>8.10</PRICE>
+    <PRICE>9.10</PRICE>
     <YEAR>1973</YEAR>
   </CD>
   <CD>
@@ -61,7 +61,7 @@
     <ARTIST>Rod Stewart</ARTIST>
     <COUNTRY>UK</COUNTRY>
     <COMPANY>Pickwick</COMPANY>
-    <PRICE>8.50</PRICE>
+    <PRICE>9.50</PRICE>
     <YEAR>1990</YEAR>
   </CD>
   <CD>
@@ -69,7 +69,7 @@
     <ARTIST>Andrea Bocelli</ARTIST>
     <COUNTRY>EU</COUNTRY>
     <COMPANY>Polydor</COMPANY>
-    <PRICE>10.80</PRICE>
+    <PRICE>9.80</PRICE>
     <YEAR>1996</YEAR>
   </CD>
   <CD>
@@ -77,7 +77,7 @@
     <ARTIST>Percy Sledge</ARTIST>
     <COUNTRY>USA</COUNTRY>
     <COMPANY>Atlantic</COMPANY>
-    <PRICE>8.70</PRICE>
+    <PRICE>9.70</PRICE>
     <YEAR>1987</YEAR>
   </CD>
   <CD>
